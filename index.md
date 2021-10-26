@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/ertuganova/kondratova.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Natalya Kondratova
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! My name is Natalya Kondratova (Natasha works fine for me). I'm data analyst/data scientist from Moscow, Russia. You can learn more about my education and experiece below. 
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Higher School of Economics (HSE University) 2016-2018 Master of Business Analysis**
 
-```markdown
-Syntax highlighted code block
+    Finished with an honors diploma. Favorite courses: statistics, introduction to machine learning, game theory.
 
-# Header 1
-## Header 2
-### Header 3
+- **Moscow State Law University 2009-2014 Master of Laws**
 
-- Bulleted
-- List
+    Specialized on international private law. Studied two languages there: English and French.
 
-1. Numbered
-2. List
+- **Moscow State Law University 2009-2014 Additional qualification: Translator in the Field of Professional Communication (English)**
 
-**Bold** and _Italic_ and `Code` text
+    Here comes affidavit and solicitor.
+    
+### Extra education
 
-[Link](url) and ![Image](src)
-```
+### Work experience
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ertuganova/kondratova.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Besides work...
